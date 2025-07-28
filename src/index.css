@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    @apply overflow-x-hidden m-0 p-0 relative bg-black text-white cursor-none 
+  selection:bg-violet-800;
+}
